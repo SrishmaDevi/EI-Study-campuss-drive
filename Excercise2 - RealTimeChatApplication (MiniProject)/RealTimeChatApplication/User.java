@@ -1,4 +1,4 @@
-package RealTimeChatApplication;
+
 
 import java.io.Serializable;
 

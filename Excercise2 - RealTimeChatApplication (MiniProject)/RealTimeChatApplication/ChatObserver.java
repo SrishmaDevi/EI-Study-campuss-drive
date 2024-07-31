@@ -1,4 +1,4 @@
-package RealTimeChatApplication;
+
 
 /**
  * Interface for chat observers to be notified of new messages.

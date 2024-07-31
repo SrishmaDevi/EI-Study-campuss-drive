@@ -27,6 +27,27 @@ Prerequisites
 =============
 - Java Development Kit (JDK) 8 or higher
 
+Running the Application
+=======================
+1. Clone the repository:
+
+   .. code-block:: sh
+
+      git clone https://github.com/your-username/RealTimeChatApplication.git
+      cd RealTimeChatApplication
+
+2. Navigate to the `src/main/java` directory and compile the project:
+
+   .. code-block:: sh
+
+      javac RealTimeChatApplication/*.java
+
+3. Run the application:
+
+   .. code-block:: sh
+
+      java RealTimeChatApplication.ChatApplication
+
 Usage
 =====
 - **create**: Create a new chat room.
